@@ -1,4 +1,4 @@
-[![MasterHead]([https://terralogic.com/wp-content/uploads/2021/06/jvm.png](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))](https://berke.org.tr)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))](https://berke.org.tr)
 <h1 align="center">Hi 👋, I'm Berke (xCraweL)</h1>
 <h3 align="center">A passionate Java developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
